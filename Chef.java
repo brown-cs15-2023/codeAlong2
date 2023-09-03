@@ -1,4 +1,4 @@
-package workshop2stencil;
+package codeAlong2;
 
 public class Chef {
     private String signatureDish;
